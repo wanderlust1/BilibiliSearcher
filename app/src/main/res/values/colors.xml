@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F1F1F1</color>
+    <color name="colorPrimaryDark">#F1F1F1</color>
+    <color name="colorAccent">#E27D9F</color>
+    <color name="colorAccentLight">#ECC3CE</color>
+    <color name="tagBg1">#E86A8D</color>
+    <color name="tagBg2">#F9AA4B</color>
+    <color name="tagBg3">#4B99F9</color>
+    <color name="rippleColor">#9a2e2e2e</color>
+    <color name="label">#9A616161</color>
+    <color name="title">#DF2B2B2B</color>
+    <color name="subtitle">#B9222222</color>
+    <color name="lightBackground">#F5F5F5</color>
+</resources>

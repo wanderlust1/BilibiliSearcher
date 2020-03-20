@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BilibiliSearcher</string>
+    <string name="no_more_content">(〜￣△￣)〜已经没有更多内容啦！</string>
+    <string name="network_timeout">连接超时了T T</string>
+    <string name="network_disconnect">Σ( ￣□￣||)似乎断开了网络连接</string>
+    <string name="unknown_error">Σ( ￣□￣||)遇到了未知错误</string>
+    <string name="search_illegal">这个好像是违规内容呢ヽ(｀Д´)ﾉ︵ ┻┻</string>
+    <string name="search_empty">什么都没找到啊T T</string>
+    <string name="search_hint">输入关键词搜索资源...</string>
+    <string name="search_input_empty">要输入关键词哦</string>
+    <string name="loading">数据加载中...</string>
+</resources>
